@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GenCoding"
+  id="myeclipse.1407766412135"
+  context-root="/GenCoding"
+  j2ee-spec="5.0"
+  archive="GenCoding.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

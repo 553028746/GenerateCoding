@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+F:\Users\Administrator\Documents\GitHub\GenerateCoding\.metadata\.plugins\org.eclipse.jdt.core
+1570057417.index
+4036445038.index
+2464282734.index
+573515571.index
+1019336830.index
